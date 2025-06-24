@@ -11,7 +11,7 @@ let text = `12as3.45`
 console.log(text)
 console.log(typeof(text)) // return string
 
-let textConverted = parseFloat(text) // Here the variable lost his chard since the letter
+let textConverted = parseFloat(text) // Here the variable lost chars because of the letter
 console.log(textConverted)
 console.log(typeof(textConverted)) // return number
 
