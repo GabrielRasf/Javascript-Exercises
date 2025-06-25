@@ -45,6 +45,3 @@ const largestNumber = (...num) => {
 }
 
 console.log(largestNumber(10,20,30))
-
-// Counting the frequency
-
