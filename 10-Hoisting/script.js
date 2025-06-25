@@ -7,6 +7,7 @@ function hi(name) {
 }
 
 
+// In this case, age is undefined and throw an error
 
 console.log(age(32))
 
